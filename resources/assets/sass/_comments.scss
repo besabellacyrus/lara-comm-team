@@ -1,0 +1,21 @@
+.comment-box {
+	overflow-y: auto;
+	height: 60vh;
+}
+.comment-div {
+	background-color: #FFF;
+	padding: 10px;
+	margin-bottom: 5px;
+	img {
+		float:left;
+		margin-right: 10px;
+		height: 27px;
+	}
+	.timestamp {
+		font-size: 10px;
+	}
+}
+.rtl {
+	background-color: #bdc3c7;
+	color: #fff;
+}

@@ -1,0 +1,24 @@
+.side-bar-panel {
+	position: fixed;
+	background-color: #2E2F29;
+	width: 100%;
+	margin-top: -22px;
+	color: #fff;
+	height: 600px;
+	ul {
+		margin-top: 20px;
+		list-style: none;
+		li {
+			margin-top: 5px;
+			// width: 50px;
+		}
+	}
+}
+ul.team-list {
+	margin-top: 0px;
+}
+#app {
+	height: 100vmin;
+}
+.chat-panel {
+}
